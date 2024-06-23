@@ -105,7 +105,7 @@ anchor --version
 
 ## Create a Solana Wallet 
 ```
-solana-keygen new --outfile my-wallet.json
+solana-keygen new -o /path-to-wallet/my-wallet.json
 ```
 ![image](https://github.com/mztacat/Eclipse-Testnet-Interaction/assets/31314340/5ebb84f3-8c57-4fdd-af89-b72d58373470)
 
